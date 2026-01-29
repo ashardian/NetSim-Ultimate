@@ -31,8 +31,9 @@ Unlike static diagrams, this simulator features a **live traffic engine** where 
 
 ### Installation
 No installation required! This is a client-side application.
-1. Download the `RouterOS-Ultimate.html` file from this repository.
+1. Download the `index.html` file from this repository.
 2. Open it in any modern web browser (Chrome, Edge, Firefox).
+OR Open this link for direct access https://ashardian.github.io/NetSim-Ultimate/
 
 ### Default Credentials
 To access the admin dashboard:
